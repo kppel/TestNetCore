@@ -15,6 +15,7 @@ namespace JenkinsWebApplicationDemo.Controllers
 
         public WeatherForecastController(ILogger<WeatherForecastController> logger)
         {
+            TestLinq();
             _logger = logger;
         }
 
@@ -28,6 +29,18 @@ namespace JenkinsWebApplicationDemo.Controllers
                 Summary = Summaries[Random.Shared.Next(Summaries.Length)]
             })
             .ToArray();
+        }
+
+        private void TestLinq()
+        {
+            var list = new List<int> { 1, 3, 8, 27, 4, 6 };
+
+            // メソッド構文
+            var query = list
+                        .Where(x => x % 2 == 0)
+                        .OrderBy(x => x)
+                        .Select(x => x * 2);
+            Console.WriteLine(query);
         }
     }
 }
