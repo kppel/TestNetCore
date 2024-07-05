@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "D:\\mydoc\\newhp\\practice\\jenkins\\TestNetCore\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{BE40DED6-602F-43DF-86E3-816FBB75C31C}|JenkinsWebApplicationDemo\\JenkinsWebApplicationDemo.csproj|d:\\mydoc\\newhp\\practice\\jenkins\\testnetcore\\jenkinswebapplicationdemo\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BE40DED6-602F-43DF-86E3-816FBB75C31C}|JenkinsWebApplicationDemo\\JenkinsWebApplicationDemo.csproj|solutionrelative:jenkinswebapplicationdemo\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{BE40DED6-602F-43DF-86E3-816FBB75C31C}|JenkinsWebApplicationDemo\\JenkinsWebApplicationDemo.csproj|d:\\mydoc\\newhp\\practice\\jenkins\\testnetcore\\jenkinswebapplicationdemo\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BE40DED6-602F-43DF-86E3-816FBB75C31C}|JenkinsWebApplicationDemo\\JenkinsWebApplicationDemo.csproj|solutionrelative:jenkinswebapplicationdemo\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE40DED6-602F-43DF-86E3-816FBB75C31C}|JenkinsWebApplicationDemo\\JenkinsWebApplicationDemo.csproj|d:\\mydoc\\newhp\\practice\\jenkins\\testnetcore\\jenkinswebapplicationdemo\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE40DED6-602F-43DF-86E3-816FBB75C31C}|JenkinsWebApplicationDemo\\JenkinsWebApplicationDemo.csproj|solutionrelative:jenkinswebapplicationdemo\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{BE40DED6-602F-43DF-86E3-816FBB75C31C}|JenkinsWebApplicationDemo\\JenkinsWebApplicationDemo.csproj|d:\\mydoc\\newhp\\practice\\jenkins\\testnetcore\\jenkinswebapplicationdemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -22,11 +22,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "WeatherForecast.cs",
               "DocumentMoniker": "D:\\mydoc\\newhp\\practice\\jenkins\\TestNetCore\\JenkinsWebApplicationDemo\\WeatherForecast.cs",
               "RelativeDocumentMoniker": "JenkinsWebApplicationDemo\\WeatherForecast.cs",
@@ -34,7 +34,8 @@
               "RelativeToolTip": "JenkinsWebApplicationDemo\\WeatherForecast.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-01T21:32:52.778Z"
+              "WhenOpened": "2024-07-01T21:32:52.778Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -50,13 +51,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "WeatherForecastController.cs",
               "DocumentMoniker": "D:\\mydoc\\newhp\\practice\\jenkins\\TestNetCore\\JenkinsWebApplicationDemo\\Controllers\\WeatherForecastController.cs",
               "RelativeDocumentMoniker": "JenkinsWebApplicationDemo\\Controllers\\WeatherForecastController.cs",
               "ToolTip": "D:\\mydoc\\newhp\\practice\\jenkins\\TestNetCore\\JenkinsWebApplicationDemo\\Controllers\\WeatherForecastController.cs",
               "RelativeToolTip": "JenkinsWebApplicationDemo\\Controllers\\WeatherForecastController.cs",
-              "ViewState": "AQIAAAwAAAAAAAAAAAAAABYAAAAJAAAA",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAgwBYAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-01T21:23:24.068Z",
               "EditorCaption": ""
